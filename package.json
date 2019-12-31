@@ -1,0 +1,33 @@
+{
+  "name": "@,hacdias/indieauth-middleware"
+  "version": "1.0.0",
+  "description": "A simple IndieAuth middleware that can be used with Express.js",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hacdias/indieauth-middleware.git"
+  },
+  "keywords": [
+    "indieauth",
+    "indieweb",
+    "middleware",
+    "express",
+    "micropub"
+  ],
+  "author": "Henrique Dias <hacdias@gmail.com> (https://hacdias.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hacdias/indieauth-middleware/issues"
+  },
+  "homepage": "https://github.com/hacdias/indieauth-middleware#readme",
+  "devDependencies": {
+    "standard": "^14.3.1"
+  },
+  "dependencies": {
+    "debug": "^4.1.1",
+    "got": "^10.2.0"
+  }
+}
