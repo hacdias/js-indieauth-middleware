@@ -1,5 +1,5 @@
 {
-  "name": "@,hacdias/indieauth-middleware",
+  "name": "@hacdias/indieauth-middleware",
   "version": "1.0.0",
   "description": "A simple IndieAuth middleware that can be used with Express.js",
   "main": "index.js",
