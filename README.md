@@ -6,7 +6,7 @@ Express.js or any other framework that uses a similar API.
 ## Install
 
 ```console
-$ npm i --save @hacdias/indieauth
+$ npm i --save @hacdias/indieauth-middleware
 ```
 
 ## Usage
