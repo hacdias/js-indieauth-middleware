@@ -24,10 +24,10 @@
   },
   "homepage": "https://github.com/hacdias/indieauth-middleware#readme",
   "devDependencies": {
-    "standard": "^14.3.1"
+    "standard": "^14.3.3"
   },
   "dependencies": {
     "debug": "^4.1.1",
-    "got": "^10.2.0"
+    "got": "^10.7.0"
   }
 }
