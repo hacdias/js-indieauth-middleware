@@ -1,5 +1,7 @@
 # @hacdias/indieauth-middleware
 
+> ⚠️ Package no longer maintained. Please [contact me](https://hacdias.com/contact) if you want to become its maintainer.
+> 
 This is a simple [IndieAuth](https://www.w3.org/TR/indieauth/) middleware that can be used in conjunction with
 Express.js or any other framework that uses a similar API.
 
